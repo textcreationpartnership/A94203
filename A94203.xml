@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The chiefe heads of Mr. John Sares speech and other passages at the time of his execution at West-Chester; he being the portliest man the three kingdomes afforded, whose coffin was two yards and a halfe in length, yet too short to containe his corps; he suffered the 20th day of October, 1651.</title>
+            <author>Sares, John, d. 1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94203</idno>
+            <idno type="STC">Wing S690</idno>
+            <idno type="STC">Thomason 669.f.16[40]</idno>
+            <idno type="STC">ESTC R211427</idno>
+            <idno type="EEBO-CITATION">99870154</idno>
+            <idno type="PROQUEST">99870154</idno>
+            <idno type="VID">163195</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163195)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The chiefe heads of Mr. John Sares speech and other passages at the time of his execution at West-Chester; he being the portliest man the three kingdomes afforded, whose coffin was two yards and a halfe in length, yet too short to containe his corps; he suffered the 20th day of October, 1651.</title>
+                  <author>Sares, John, d. 1651.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Febr. 16"; "Feb. 16. 1651".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sares, John, d. 1651 --  Death and burial --  Early works to 1800.</term>
+               <term>Royalists --  England --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:163195:1" rendition="simple:additions"/>
+            <head>The chiefe Heads of Mr. <hi>John Sares</hi> Speech, and other paſſages at the time of his Execution at <hi>Weſt-Cheſter;</hi> he being the portlieſt man the three Kingdomes afforded, whoſe Coffin was two yards and a halfe in length, yet too ſhort to containe his Corps; he ſuffered the <hi>20<hi rend="sup">th.</hi>
+               </hi> day of <hi>October,</hi> 1651.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Entlemen and Friends, I am here come, and now ready to pay and ſuffer that Death which my good God hath appointed for me, to his glory, and my owne good, humbly confeſſing the ſame due to me for my ſins; I looke upon it as from him, though inſtrumentally by man.</p>
+            <p>I here heartily acknowledge, that I have ſpent the prime of my age too much in vain Company-keeping, and more then convenient drinking, which is incident to too many men, and the Mother and Nurſe of all miſchief.</p>
+            <p>And likewiſe have broken, and, which troubleth me moſt, deſpiſed that loyall knot of Matrimony; but I bleſs my God, I have after very much griefe of heart, remorſe, and true ſorrow for the ſame, and wreſtling with my gracious and good God, through the merits of Chriſt and his interceſſion, obtained pardon, and re<g ref="char:EOLhyphen"/>ceived comfort.</p>
+            <p>But beloved friends, I am not ſentenced by man, nor yet his power hath adjudged me to this Death, but God deſigned me to it; for this, nay this uſe I rather make of it, that the onely motives and chief cauſe of ſenten<g ref="char:EOLhyphen"/>cing me to this end, is not the leaſt grief or trouble to me, but rather occaſions Alacrity, cheerefulneſs &amp; comfort, that I am accompted worthy, although by the baſeſt of deathes, to ſuffer for my King; notwithſtanding others of honor, have received noble deaths which could not be denyed them; yet it matters not the manner of the end, whileſt I have an aſſurance, that I, and all that have preceded me by what death ſoever, or ſhall hereafter ſuffer for the ſame cauſe, ſhall arive at the Haven of Celeſtial joy, and ever ſing Haleluiaes to him that ſitteth upon the Throne for evermore.</p>
+            <p>The word of God requireth, <hi>Feare God, and honour the King;</hi> in the former I have been too remiſs and neglected too too often, the Lord forgive me; nay he will, he hath forgiven me: And for the latter, my obeyſance to my Liege Lord, and Soveraigne King <hi>Charles</hi> the firſt, and after him, <hi>Charles</hi> the ſecond; I was never cenſured, or in the leaſt tainted; but you ſee ſentenced by the contrary Party for the ſame: I was al<g ref="char:EOLhyphen"/>waies for them in life, and am ſo ſtill, I dye for them; Nay I here profeſſe, that if I had a head of Haire as big as <hi>Abſolons,</hi> and every haire as ſtrong as <hi>Sampſon;</hi> And if I were to live as many <hi>Methuſalaes</hi> lives as I have haires on my head, I would ſpend them all for the good and honor of my King.</p>
+            <p>Then he deſired Mr. <hi>Packe</hi> to ſing a Pſalme, and after to pray with him, which done, he turned towards the Ladder, and ſeeing it ſome<g ref="char:EOLhyphen"/>what too ſhort; he ſaid <hi>Jacob</hi> dreamed of a Ladder that reach't up to Heaven; what this Ladder wants in length, I hope by the ſupport of Gods Spirit, and his holy Angels, I ſhall be convayed and carryed to Heaven, and be brought to my happy journeyes end. Then he gave a Gratuity to the Executioner: and as he went up the Ladder, he intreated his Friends not to weepe for him, ſaying he was full of inward com<g ref="char:EOLhyphen"/>fort. But he deſired all to pray for him, ſaying he forgave all the world, and thoſe that had a hand in bringing him thither; declaring him<g ref="char:EOLhyphen"/>ſelfe in theſe expreſſions, they intended evill to me, but they have done me much good in taking me out of a ſinfull World, and out of a diſtreſſed Kingdome, and from a diſtracted people, and ſending me ſooner to the Haven of happineſſe, the haven of eternall and ever<g ref="char:EOLhyphen"/>laſting reſt.</p>
+            <p>Now ſome may imagine, that death doth worke a terror and feare within me, and that I am affraid to dye; I muſt confeſſe the laſt night, the feare of death, and the amazement it brought unto me, and loathneſs to leave this World, troubled me very much; But I bleſſe my God, I was comforted, incouraged, and well reſolved before the day appeared, that I durſt looke Death undauntedy in the face; and as I truſt God with my Soule, ſo I leave and commit my Children to his Gracious and Fatherly protection: All that is mine I leave unto them, hoping of Gods goodneſſe and bleſſing upon them, deſiring the ſame with my ſoule.</p>
+            <p>I ever have lived, and dye a Proteſtant, and ſo farre as I ever conceived and verily believe, the late King, as alſo this, were ever Proteſtants, and ſtood for the Proteſtant Religion: and therefore I was for him who is not; and for him, for whoſe cauſe I now dye, praying to God to bleſſe him whereſoever he is or goeth.</p>
+            <p>And now good Souldiers I thanke you for your civilities towards me, and I intreat you to ſee that my poore Son, and the reſt of my Chil<g ref="char:EOLhyphen"/>dren may not ſuffer after me, or on this manner, but let them have what is mine.</p>
+            <p>And looking towards his acquaintance, he ſaid; I deſire you to remember me to my deare Mother, and all my Friends, I pray God bleſſe and comfort her, and all them.</p>
+            <p>Then he ſaid to the Executioner, friend, when I hold up my hands, doe thy Office; and as he put the Rope over his head, he with expreſ<g ref="char:EOLhyphen"/>ſions of joy ſaid; what a Gallant morning Ribbon is this which I weare for the ſake of my King.</p>
+            <p>Then he made many ſhort heavenly ejaculations, praying earneſtly, and ſaying, Lord <hi>I</hi> beſeech thee waſh my ſoule cleane in the blood of thy deare Son my bleſſed Saviour from all my ſins; <hi>I</hi> ſhall (ſaid he) be by and by be with thee, <hi>I</hi> ſhall injoy the bleſſed preſence of thee my gracious God, my deare Saviour, and all the holy Saints.</p>
+            <p>Then he intreated his Friends, not to ſuffer the Executioner to pull him by the Legges, when the Ladder was turned, or to uſe any violent meanes, as is uſuall to put him ſooner out of his paine; for ſaid he, <hi>I</hi> deſire to ſuffer the paines of this death whatſoever it be; nay if it were ten thouſand times more for my ſins, and to waite upon my God, till he deliver my ſoule out of this mortall body.</p>
+            <p>Then he prayed againe, and ſaid, into thy hands ô Lord Jeſus my bleſſed Saviour, <hi>I</hi> commend my Spirit; and ſo he held up his hands, and the Executioner did his Office accordingly.</p>
+            <p>And that which was thought very ſtrange, and never obſerved in any, none of the beholders could perceive any motion, or ſtirring of ei<g ref="char:EOLhyphen"/>ther hand or Foot, or the leaſt appeareance of paine in undergoing the ſame.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
